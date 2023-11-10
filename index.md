@@ -4,35 +4,34 @@ layout: homepage
 
 ## About Me
 
-I'm a <a href="https://med.nyu.edu/departments-institutes/population-health/divisions-sections-centers/biostatistics/" target="_blank"> Biostatistics</a> Ph.D. candidate at <a href="https://www.nyu.edu/" target="_blank"> New York University</a>'s <a href="https://med.nyu.edu/" target="_blank"> Grossman School of Medicine</a>,
+I'm a third-year Ph.D. candidate at <a href="https://www.inria.fr/en" target="_blank"> Inria</a>'s <a href="https://team.inria.fr/thoth/" target="_blank"> Thoth team</a>,
 <!-- , specifically within the <a href="https://med.nyu.edu/research/sackler-institute-graduate-biomedical-sciences/" target="_blank"> Vilcek institute of Biomedical Sciences</a> and the Department of <a href="https://med.nyu.edu/departments-institutes/population-health/" target="_blank"> Population Health</a>. Under the mentorship of Prof.  -->
-working under the mentorship of Prof.<a href="https://med.nyu.edu/faculty/thaddeus-tarpey" target="_blank"> Thaddeus Tarpey</a>. My research involves developing statistical models that cater to high-dimensional complex data, such as functional and imaging data.
+working under the supervision of Prof.<a href="https://lear.inrialpes.fr/people/alahari/" target="_blank"> Karteek Alahari</a>. My research involves developing deep learning models that learns continually (Continual Learning) with visual information (Computer Vision) or multi-modal information (Multi-modal learning).
 
-In the summer of 2022, I had the opportunity to work as a Data Scientist Intern at <a href="https://about.google" target="_blank"> Google</a>, where I applied my statistical skills to real-world problems. 
-Prior to joining the Ph.D. program, I completed my master's degree in Biostatistics and Data Science from <a href="https://www.cornell.edu" target = "_blank"> Cornell University</a> advised by Prof. <a href= "https://www.idiaz.xyz" target = "_blank"> Iván Díaz</a>, and my bachelor's degree in International Finance from <a href="https://www.cueb.edu.cn" target = "_blank"> Capital University of Economics and Business</a>. 
+Prior to joining the Ph.D. program, I had the opportunity to work as a Research Engineer with <a href="https://www.inria.fr/en" target="_blank"> Inria</a> and <a href="https://about.meta.com/realitylabs/" target="_blank"> Meta Reality Labs </a> where I applied my skills to audio-visual speech processing. THe project was under the mentorship of Dr. <a href="https://team.inria.fr/perception/team-members/radu-patrice-horaud/" target="_blank"> Radu Horaud</a> (inria),Dr. <a href="https://msaadeghii.github.io/" target="_blank"> Mostafa Sadeghi</a> (inria) and <a href="https://www.soundzones.com/jdonley/" target="_blank"> Jacob Donley </a>.
+
+I completed my master's degree in Machine Learning and Optimization of Complex Systems from <a href="https://www.utc.fr/en/" target = "_blank"> Université de Technologie de Compiègne (Sorbonne)</a>.  I obtained my engineer's degree in Decision Data Mining from <a href="https://www.utt.fr/" target = "_blank"> Université de Technologie de Troyes</a>. 
 
 <!-- 
 I am an alumnus of the <a href="https://opencasestudies.github.io/" target="_blank"> Open Case Study Project</a> at <a href="https://www.jhsph.edu/" target="_blank"> the Bloomberg School of Public Health </a> of <a href="https://www.jhu.edu/" target="_blank"> the Johns Hopkins University</a>. -->
 
-Outside of academia, I began my journey as a professional swimmer at the age of 5 and went on to achieve several regional and national championships. I'm also passionate about Chinese calligraphy, and my artwork has been exhibited in top galleries and museums including the <a href="http://www.namoc.org/" target="_blank"> National Art Museum of China (Beijing)</a>. In addition, I am also interested in oil painting, and aeromodelling.
 
 
 ## Research Interests
-- **Manifold Learning:** positive semi-definite manifolds learning
-- **Machine Learning:** fairness AI, penalization and augmentation methods
-- **Functional Data Analysis:** functional regression, and clustering methods
-- **High-Dimensional Statistics:** matrix-valued regression and clustering, positive semi-definite matrices estimations
+- **Continual learning:** continual semi-supervised learning, contiual learning with foundation models
+- **Computer Vision:** image/video classification, face frontalization, video understanding
+- **Audio-visual speech processing:** audio-visual speech enhancement, audio-visual speech recognition
 
 
-## Awards
-- **[May. 2023]** <a href="https://gsas.nyu.edu/admissions/financial-aid/graduate-school-fellowships-and-assistantships.html" target="_blank">*MacCracken Awards*</a> for outstanding research and activities
+<!-- ## Awards
+- **[May. 2023]** <a href="https://gsas.nyu.edu/admissions/financial-aid/graduate-school-fellowships-and-assistantships.html" target="_blank">*MacCracken Awards*</a> for outstanding research and activities -->
 
 
 <!-- {% include_relative _includes/publications.md %} -->
 
 {% include_relative _includes/projects.md %}
 
-{% include_relative _includes/talks.md %}
+<!-- {% include_relative _includes/talks.md %} -->
 
 
 
