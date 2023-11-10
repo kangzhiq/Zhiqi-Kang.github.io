@@ -34,7 +34,7 @@
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/NND.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">Oral</abbr>
+    <abbr class="badge">ICCV Oral</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
