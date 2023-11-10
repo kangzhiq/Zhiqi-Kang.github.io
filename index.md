@@ -12,8 +12,7 @@ Prior to joining the Ph.D. program, I had the opportunity to work as a Research 
 
 I completed my master's degree in Machine Learning and Optimization of Complex Systems from <a href="https://www.utc.fr/en/" target = "_blank"> Université de Technologie de Compiègne (Sorbonne)</a>.  I obtained my engineer's degree in Decision Data Mining from <a href="https://www.utt.fr/" target = "_blank"> Université de Technologie de Troyes</a>. 
 
-<!-- 
-I am an alumnus of the <a href="https://opencasestudies.github.io/" target="_blank"> Open Case Study Project</a> at <a href="https://www.jhsph.edu/" target="_blank"> the Bloomberg School of Public Health </a> of <a href="https://www.jhu.edu/" target="_blank"> the Johns Hopkins University</a>. -->
+
 
 
 
