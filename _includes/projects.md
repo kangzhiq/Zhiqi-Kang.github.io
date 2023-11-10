@@ -146,6 +146,7 @@
     <div class="links">
     <a href="https://link.springer.com/chapter/10.1007/978-3-030-66415-2_55" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
       <a href="https://drive.google.com/file/d/1iAwQzgu6Ge76fu7vlmP7sbFC9XjlSeqr/view" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/kangzhiq/GSoC_Debate" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">GitHub</a>
       <!-- <a href="https://github.com/kangzhiq/NNCSL" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">ArXiv</a> -->
       <!-- <a href="https://pypi.org/project/KTensors/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Package</a> -->
       <a href="assets/files/kang2020understanding.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a>
