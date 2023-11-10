@@ -80,32 +80,7 @@
 </div>
 </li>
 
-<li>
-<div class="pub-row">
 
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/IJCV.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">IJCV</abbr>
-  </div>
-
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://link.springer.com/article/10.1007/s11263-022-01742-1">Expression-preserving face frontalization improves visually assisted speech processing
-</a></div>
-    <div class="author"><strong>Zhiqi Kang</strong>, Mostafa Sadeghi, Radu Horaud, Xavier Alameda-Pineda</div>
-    <div class="periodical"><em>Mostafa Sadeghi, Radu Horaud, Xavier Alameda-Pineda <strong>(IJCV)</strong>, May 2023.</em></div>
-    <div class="links">
-    <a href="https://link.springer.com/article/10.1007/s11263-022-01742-1" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
-      <a href="https://arxiv.org/pdf/2204.02810" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <!-- <a href="https://github.com/kangzhiq/NNCSL" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">ArXiv</a> -->
-      <!-- <a href="https://pypi.org/project/KTensors/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Package</a> -->
-      <a href="assets/files/kang2023expression.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a>
-      <!-- <strong><i style="color:#7b5aa6">arXiv.org</i></strong> -->
-    </div>
-  </div>
-</div>
-</li>
-
-<br>
 
 </ol>
 </div>
