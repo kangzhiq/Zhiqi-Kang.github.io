@@ -8,17 +8,18 @@
   <li><a href="https://eccv2022.ecva.net/"><autocolor>European Conference on Computer Vision (ECCV) 2022</autocolor></a></li>
 </ul> -->
 
-<h4 style="margin:0 10px 0;">Journal Reviewers</h4>
+<h4 style="margin:0 10px 0;">Review</h4>
 
 <ul style="margin:0 0 20px;">
-  <li><a href="https://www.frontiersin.org" target="_blank"> Frontiers in Surgery </a></li>
-  <li><a href="https://www.jmcp.org" target="_blank"> Journal of Managed Care & Specialty Pharmacy </a></li>
+  <li><a href="https://www.acmmm2023.org/" target="_blank"> ACM Multimedia 2023 2022 </a></li>
+  <li><a href="https://cvpr.thecvf.com/" target="_blank"> CVPR 2024 </a></li>
+  <li><a href="https://www.sciencedirect.com/journal/computer-vision-and-image-understanding" target="_blank"> Computer Vision and Image Understanding (CVIU) </a></li>
+
 </ul>
 
 <h4 style="margin:0 10px 0;">Membership & Activities</h4>
 
 <ul style="margin:0 0 20px;">
-  <li><strong>[2019-present]</strong> Member of the <a href="https://www.amstat.org/" target="_blank"> American Statistical Association </a></li>
-  <li><strong>[2019-present]</strong> Member of the <a href="https://www.biometricsociety.org/home" target="_blank"> International Biometric Society </a></li>
-  <li><strong>[2021-2022]</strong> Chair of the <a href="https://nyu-medicine-cssa.github.io" target="_blank"> Chinese Student and Scholar Association (CSSA)</a> at Grossman School of Medicine, New York University</li>
+  <li><strong>[2023-present]</strong> Member of the <a href="https://www.thecvf.com/" target="_blank"> The Computer Vision Foundation </a></li>
+  <li><strong>[2022-2023]</strong> Vice president of the <a href="http://jiaoyuchu.online.fr/Subpages/UCECF.html" target="_blank"> Section Grenoble of Chinese Student and Scholar Association</a> in Grenoble, France</li>
 </ul>
