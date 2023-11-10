@@ -105,5 +105,55 @@
 </div>
 </li>
 
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/ICCVW.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">ICCVW</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://openaccess.thecvf.com/content/ICCV2021W/TradiCV/html/Kang_Robust_Face_Frontalization_for_Visual_Speech_Recognition_ICCVW_2021_paper.html">Robust Face Frontalization For Visual Speech Recognition
+</a></div>
+    <div class="author"><strong>Zhiqi Kang</strong>, Radu Horaud, Mostafa Sadeghi</div>
+    <div class="periodical"><em>Proceedings of the IEEE/CVF International Conference on Computer Vision Workshops <strong>(ICCVW)</strong>, Oct. 2021.</em></div>
+    <div class="links">
+    <a href="https://openaccess.thecvf.com/content/ICCV2021W/TradiCV/html/Kang_Robust_Face_Frontalization_for_Visual_Speech_Recognition_ICCVW_2021_paper.html" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
+      <a href="https://openaccess.thecvf.com/content/ICCV2021W/TradiCV/papers/Kang_Robust_Face_Frontalization_for_Visual_Speech_Recognition_ICCVW_2021_paper.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <!-- <a href="https://github.com/kangzhiq/NNCSL" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">ArXiv</a> -->
+      <!-- <a href="https://pypi.org/project/KTensors/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Package</a> -->
+      <a href="assets/files/Kang_2021_ICCV.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a>
+      <!-- <strong><i style="color:#7b5aa6">arXiv.org</i></strong> -->
+    </div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/ECCVW.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">ECCVW</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://link.springer.com/chapter/10.1007/978-3-030-66415-2_55">Understanding political communication styles in televised debates via body movements
+</a></div>
+    <div class="author"><strong>Zhiqi Kang</strong>, Christina Indudhara, Kaushik Mahorker, Erik P Bucy, Jungseock Joo</div>
+    <div class="periodical"><em>European Conference on Computer Vision Workshops <strong>(ECCVW)</strong>, Aug. 2020.</em></div>
+    <div class="links">
+    <a href="https://link.springer.com/chapter/10.1007/978-3-030-66415-2_55" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
+      <a href="https://drive.google.com/file/d/1iAwQzgu6Ge76fu7vlmP7sbFC9XjlSeqr/view" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <!-- <a href="https://github.com/kangzhiq/NNCSL" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">ArXiv</a> -->
+      <!-- <a href="https://pypi.org/project/KTensors/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Package</a> -->
+      <a href="assets/files/kang2020understanding.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a>
+      <!-- <strong><i style="color:#7b5aa6">arXiv.org</i></strong> -->
+    </div>
+  </div>
+</div>
+</li>
+
 </ol>
 </div>

@@ -8,7 +8,7 @@ I'm a third-year Ph.D. candidate at <a href="https://www.inria.fr/en" target="_b
 <!-- , specifically within the <a href="https://med.nyu.edu/research/sackler-institute-graduate-biomedical-sciences/" target="_blank"> Vilcek institute of Biomedical Sciences</a> and the Department of <a href="https://med.nyu.edu/departments-institutes/population-health/" target="_blank"> Population Health</a>. Under the mentorship of Prof.  -->
 working under the supervision of Prof.<a href="https://lear.inrialpes.fr/people/alahari/" target="_blank"> Karteek Alahari</a>. My research involves developing deep learning models that learns continually (Continual Learning) with visual information (Computer Vision) or multi-modal information (Multi-modal learning).
 
-Prior to joining the Ph.D. program, I had the opportunity to work as a Research Engineer with <a href="https://www.inria.fr/en" target="_blank"> Inria</a> and <a href="https://about.meta.com/realitylabs/" target="_blank"> Meta Reality Labs </a> where I applied my skills to audio-visual speech processing. THe project was under the mentorship of Dr. <a href="https://team.inria.fr/perception/team-members/radu-patrice-horaud/" target="_blank"> Radu Horaud</a> (inria), Dr. <a href="https://msaadeghii.github.io/" target="_blank"> Mostafa Sadeghi</a> (inria) and Dr. <a href="https://www.soundzones.com/jdonley/" target="_blank"> Jacob Donley </a> (Meta).
+Prior to joining the Ph.D. program, I had the opportunity to work as a Research Engineer with <a href="https://www.inria.fr/en" target="_blank"> Inria</a> and <a href="https://about.meta.com/realitylabs/" target="_blank"> Meta Reality Labs </a> where I applied my skills to audio-visual speech processing. The project was under the mentorship of Dr. <a href="https://team.inria.fr/perception/team-members/radu-patrice-horaud/" target="_blank"> Radu Horaud</a> (inria), Dr. <a href="https://msaadeghii.github.io/" target="_blank"> Mostafa Sadeghi</a> (inria) and Dr. <a href="https://www.soundzones.com/jdonley/" target="_blank"> Jacob Donley </a> (Meta) and Dr. <a href="https://anuragkr90.github.io/" target="_blank"> Anurag Kumar </a> (Meta).
 
 I completed my master's degree in Machine Learning and Optimization of Complex Systems from <a href="https://www.utc.fr/en/" target = "_blank"> Université de Technologie de Compiègne (Sorbonne)</a>.  I obtained my engineer's degree in Decision Data Mining from <a href="https://www.utt.fr/" target = "_blank"> Université de Technologie de Troyes</a>. 
 
@@ -17,9 +17,9 @@ I completed my master's degree in Machine Learning and Optimization of Complex S
 
 
 ## Research Interests
-- **Continual learning:** continual semi-supervised learning, contiual learning with foundation models
+- **Continual Learning:** continual semi-supervised learning, contiual learning with foundation models
 - **Computer Vision:** image/video classification, face frontalization, video understanding
-- **Audio-visual speech processing:** audio-visual speech enhancement, audio-visual speech recognition
+- **Audio-visual Speech Processing:** audio-visual speech enhancement, audio-visual speech recognition
 
 
 <!-- ## Awards
