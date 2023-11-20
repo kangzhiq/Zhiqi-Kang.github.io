@@ -21,6 +21,7 @@
 <h4 style="margin:0 10px 0;">Membership & Activities</h4>
 
 <ul style="margin:0 0 20px;">
-  <li><strong>[2023-present]</strong> Member of the <a href="https://www.thecvf.com/" target="_blank"> The Computer Vision Foundation </a></li>
+  <li><strong>[2023-present]</strong> Member of the <a href="https://www.thecvf.com/" target="_blank"> The BAAI Young Scientist Association </a></li>
+  <li><strong>[2023-present]</strong> Member of the <a href="https://baai.ac.cn/" target="_blank"> The Computer Vision Foundation </a></li>
   <li><strong>[2022-2023]</strong> Vice president of the <a href="http://jiaoyuchu.online.fr/Subpages/UCECF.html" target="_blank"> Section Grenoble of Chinese Student and Scholar Association</a> in Grenoble, France</li>
 </ul>
